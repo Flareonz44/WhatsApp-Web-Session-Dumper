@@ -1,0 +1,1 @@
+# WhatsApp-Web-Session-Dumper
