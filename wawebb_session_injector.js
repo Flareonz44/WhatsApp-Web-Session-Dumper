@@ -2,7 +2,7 @@ if ((document.title).indexOf("WhatsApp") >= 0) {
     sesf = prompt("Paste raw data from .was files");
     if (sesf.indexOf(">>") >= 0) {
         sesfarr = sesf.split(">>");
-        for (i = 0; i < _file_array.length; i++) {
+        for (i = 0; i < sesfarr.length; i++) {
             if (i == 0) {
                 localStorage.clear();
                 let keyl = sesfarr[0].split("\n");
