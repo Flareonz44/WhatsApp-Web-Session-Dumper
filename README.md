@@ -18,7 +18,7 @@ This scripts does the inverse process of the script above, it asks for the data 
 
 ## How to use it ##
 
-This is very easy to use. First you have to create two bookmarks on Chrome: one for the dumper and the other for the injector. Open the file with github web, select all the code, copy it, and then, create a new bookmark. In the name write **wawebb_session_dumper.js** and where sais 'URL', delete all and write 'javascript: ' (without quotes and with a space between the ':' and the code, like 'javascript: functi...' rather than 'javascript:functi...') and then, paste the copied coded next tho the ': ', like so:
+This is very easy to use. First you have to create two bookmarks on Chrome: one for the dumper and the other for the injector. Open the file with github web, select all the code, copy it, and then, create a new bookmark. In the name write **wawebb_session_dumper.js** and where sais 'URL', delete all and write 'javascript: ' (without quotes and with a space between the ':' and the code, like 'javascript: functi...' rather than 'javascript:functi...') and then, paste the copied code next tho the ': ', like so:
 
 ![image](https://user-images.githubusercontent.com/72309928/162575874-fd35c6de-8661-4f79-842e-e650f8ab4b2d.png)
 
