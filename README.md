@@ -32,4 +32,13 @@ This script was also tested on Android 10 Chrome Browser, so you can dump and in
 
 ## The darkside of this tool ##
 
-As a cyber-security entusiast, I must say that this tool could be used to gain access to someone's WhatsApp. You only need to know the victim's phone password (or PIN) and have phisical access to his phone for at least 1 minute with Internet connection. Open Chrome Browser on your phone, search for 'whatsapp web' and, on the Google's results page, put your browser in Desktop Mode, then reload the result page and go to Whatsapp Web. Put your phone in landscape mode (rotate it) and wait untill you see the QR code. When it is loaded, grab the victim's phone, go to his WhatsApp and add a new Conected Device, then scan the QR on your phone and when it's done, launch the **wawebb_session_dumper.js** bookmark (previously created on your Chrome Browser) and then provide a name for the session file.
+As a cyber-security entusiast, I must say that this tool could be used to gain access to someone's WhatsApp. You only need to know the victim's phone password (or PIN) and have phisical access to his phone for at least 1 minute with Internet connection. 
+
+Open Chrome Browser on your phone, search for 'whatsapp web' and, on the Google's results page, put your browser in Desktop Mode, then reload the result page and go to Whatsapp Web. Put your phone in landscape mode (rotate it) and wait untill you see the QR code. When it is loaded, grab the victim's phone, go to his WhatsApp and add a new Conected Device, then scan the QR on your phone and when it's done, launch the **wawebb_session_dumper.js** bookmark (previously created on your Chrome Browser) and then provide a name for the session file.
+
+The next step is to copy the session file to your personal computer and injet it on your browser. Now you can see the victim's WhatsApp.
+
+## How to protect yourself from this attack ##
+
+It's very simple, just always follow this advices:
+- 
