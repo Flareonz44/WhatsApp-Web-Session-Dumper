@@ -5,9 +5,9 @@ function save(data) {
     }));
     filen = prompt("Input session name", "saved-session") + ".was";
     if (!(filen == "null.was")) {
-        doc.download = _name;
+        doc.download = filen;
         doc.click();
-        alert("\nFile successfuly saved as " + _name + "\n\nCreated by Flareonz44");
+        alert("\nFile successfuly saved as " + filen + "\n\nCreated by Flareonz44");
     }
 }
 if ((document.title).indexOf("WhatsApp") >= 0) {
