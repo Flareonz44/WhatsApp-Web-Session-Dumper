@@ -40,5 +40,10 @@ The next step is to copy the session file to your personal computer and injet it
 
 ## How to protect yourself from this attack ##
 
-It's very simple, just always follow this advices:
-- 
+Here you have some tips for protecting yourself from this kind of attack:
+
+- Always check what Connected Devices you have, and close the ones that seems suspicious.
+- Change you phone PIN regularly.
+- Prefere text-based password for your phone, rather than a Pattern (which is more easy to remember and hack) and/or biometric-based.
+- Add a second password to open WhatsApp (you can use an app like Norton App Lock)
+- Add the second fingerprint authentication on WhatsApp (only availiable on latest releases and on some devices only)
