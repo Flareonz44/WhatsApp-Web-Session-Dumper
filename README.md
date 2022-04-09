@@ -2,7 +2,7 @@
 
 ## Disclaimer ##
 
-These scripts are only for educational propouses. You musn't use them with evil intentions. I'm not responsible for the bad or harmful use you give to all the information provided within this project.
+These scripts are only for educational propouses. I'm not responsible for the bad or harmful use you give to all the information provided within this project, so use at your own risk!
 
 ## What is it exactly? ##
 
