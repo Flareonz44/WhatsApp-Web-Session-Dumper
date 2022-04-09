@@ -18,9 +18,9 @@ This scripts does the inverse process of the script above, it asks for the data 
 
 ## How to use it ##
 
-This is very easy to use. First you have to create two bookmarks on Chrome: one for the dumper and the other for the injector. Open the file with github web, select all the code, copy it, and then, create a new bookmark. In the name write **wawebb_session_dumper.js** and where sais 'URL', delete all and write 'javascript:' (without quotes) and then, paste the copied coded next tho the ':', like so:
+This is very easy to use. First you have to create two bookmarks on Chrome: one for the dumper and the other for the injector. Open the file with github web, select all the code, copy it, and then, create a new bookmark. In the name write **wawebb_session_dumper.js** and where sais 'URL', delete all and write 'javascript: ' (without quotes and with a space between the ':' and the code, like 'javascript: functi...' rather than 'javascript:functi...') and then, paste the copied coded next tho the ': ', like so:
 
-![image](https://user-images.githubusercontent.com/72309928/162549188-8214b615-91b8-4c03-92ed-b6c648e6f54e.png)
+![image](https://user-images.githubusercontent.com/72309928/162575874-fd35c6de-8661-4f79-842e-e650f8ab4b2d.png)
 
 Then do the same for the other script and save those bookmarks into the same folder. Now go to [WhatsApp Web](https://web.whatsapp.com/ "WhatsApp Web") and scan the QR as always. Wait until it is completely loaded and when you are ready, go to your bookmark folder and click on **wawebb_session_dumper.js**. A prompt will apear asking for for a name for the session, just provide the name you like and click on ok. A file will be downloaded. Thats the session file.
 
