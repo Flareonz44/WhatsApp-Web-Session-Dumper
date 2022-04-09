@@ -5,11 +5,11 @@ if ((document.title).indexOf("WhatsApp") >= 0) {
         for (i = 0; i < sesfarr.length; i++) {
             if (i == 0) {
                 localStorage.clear();
-                let keyl = sesfarr[0].split("\n");
-                for (j = 0; j < keylist.length; j++) {
+                keyl = sesfarr[0].split("\n");
+                for (j = 0; j < keyl.length; j++) {
                     if (keyl[j].indexOf(":::") >= 0) {
-                        let key = keyl[j].split(":::")[0];
-                        let val = keyl[j].split(":::")[1];
+                        key = keyl[j].split(":::")[0];
+                        val = keyl[j].split(":::")[1];
                         localStorage.setItem(key, val);
                     }
                 }
