@@ -1,4 +1,8 @@
-# WhatsApp Web Session Dumper
+# WhatsApp Web Session Dumper (Deprecated)
+
+# IMPORTANT NOTICE (08/09/2022)
+
+This tool has been deprecated due to changes in the Whatsapp web application. The method used by this tool no longer works for WS Web, but it could work on other platforms. Anyway, I will leave this page here for future generations :)
 
 ## Disclaimer ##
 
